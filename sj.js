@@ -28,7 +28,7 @@ const CONFIG = {
     吞吐量阈值_差: 50,
     
     // --- 新增v4.9订阅功能配置 ---
-    UUID: 'a45809f9-9d43-4b4b-afeb-089bbdbdfc97', // [重要] VLESS协议的UUID, 务必修改
+    UUID: '3ecb569c-63ac-488e-8942-49cab4925451', // [重要] VLESS协议的UUID, 务必修改
     subPath: 'sub', // 订阅路径, 可自定义, 'sub' 表示订阅链接为 /sub/sub
 	
 	cfip: [ //优选IP/域名列表，格式为 "地址#备注"。
